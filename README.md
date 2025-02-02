@@ -48,7 +48,7 @@ python robotic_arm_control.py
 ```
 
 ## 🎥 Demo
-![Robotic Arm Demo](https://your-demo-image-link.com)
+![Robotic Arm Demo](https://github.com/Hamza-Nazih/Robotic-Arm-Project/blob/main/IMG_20240211_003213.jpg)
 
 ## 🤝 Contribution
 Feel free to **fork** this repository, create **issues**, or submit **pull requests** to improve this project.
